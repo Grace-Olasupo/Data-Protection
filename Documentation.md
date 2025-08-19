@@ -1,5 +1,8 @@
 # Data Protection Strategy Documentation
 
+![AWS Data Protection Architecture](data-chart.png)
+
+
 ## Overview
 This document outlines a comprehensive data protection strategy leveraging AWS services to ensure secure data management, encryption, and access control across the cloud infrastructure.
 
